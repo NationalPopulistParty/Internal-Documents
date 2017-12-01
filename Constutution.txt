@@ -1,6 +1,6 @@
 1. Name and Imagery
 
-  1.1) The name shall be the National Populist Party hereinafter referred to as the Party or the NPP. 
+  1.1) The name shall be the National Populist Party, hereinafter referred to as the Party or the NPP. 
 
   1.2) The official flag and logo of the Party is a horizontal bicolor with a white 5-pointed star at its center, orientated so as to point upward. The bottom half of the flag is red (number 70180 in the Standard Color Card of America); the top half of the flag is blue (number 70075); these color specifications are to ensure that the flags color scheme always matches those of the flag of the United States of America. The geometry of the flag is a 1:2 ratio. at the center of the star shall be the Sword and Hammer of the Black Front.
 
@@ -29,19 +29,19 @@
     
       A. The State Chapters are granted the duty to oversee the formation of local and affiliate chapters in their home State and to represent their will on the State level.
       B. A State chapter is formed when there are five or more local chapters in one given State a time and a commttee of local representives are elected by a democratic election by the members of each local chapter thus forming the State Congress. 
-      C. The State body is to form a Central Committee consiting of the following departments and their leaders which will determine Statewide policies for the Chapter
+      C. The State Committee is to form a State Committee consiting of the following departments and their leaders which will determine Statewide policies for the Chapter
         I) Department of Health and Welfare 
         II) Department of Finance 
         III) Department of Economics 
         IV) Department of Cultural Affairs 
+      D. The State Committee is made up of elected offcials of each State Chapter. zMembers and will serve a term of two years in which time they shall will have the power to submit and vote upon resolutions and bylaws, in accordance with the Constitution and Bylaws of the Party and the State Committee. The State Party may overturn a resolution or decision of its State Comittee by calling for and achieving a supermajority vote of 85% by the membership of the State Party.
      
-     D. The leaders of the varous departments must be selected based on their knowledge in each area that they are applying for and must hold atleast the bare minimum degree in each feild
-     
-   2.7 Concerning the National Body 
+
+   2.7 Concerning the Central Commitee
    
     A. The National Body is tasked with the overseeing of each State chapter and the creation of policy an bylaws for the party as a whole. 
     B. With this in mind the Party leadership will be structured in a similar manner as the State Chapters with a Board of Departments and a Congress of State Leaders from each State Chapter. 
-    C. The Congress is made up of elected offcials of each State Chapter and will serve a term of one year in which time the official will have the power to write bylaws if they are found by those of the State Chapter that they reside to be unfit or corrupt they may be withdrawn upon popular vote. 
+    C. The Congress is made up of elected offcials of each State Chapter and will serve a term of two years in which time the official will have the power to write bylaws if they are found by those of the State Chapter that they reside to be unfit or corrupt they may be withdrawn upon popular vote. 
     D. The Board of Departments on the National level will be hereby called the Central Committee and will be structured as follows; 
       
       I)Department of Economics
@@ -51,10 +51,13 @@
       V) Department of Culture
       
       
-    E. The Central Committee wll be selected by application and will be handpicked by the Chairman and Congressional approvial 
+    E. The Central Committee wll be selected by application and will be nominated by the Chairman and confirmed with a 60% or greater majority vote Congressional approvial 
     
-    E. The leader of the Party will be refered to as the Chairman who will hold a term of two years and will be elected by majority vote of all party members. The Vice-Chairman will be the runner up in the general elections for the Party Chairman in order to maintain party unity. 
-    F. The Chairman will be tasked with overseeing party meetings, bylaws, and approving or vetoing the party platform. If found unfit or corrupt the Congress and Central Committee upon majority vote has the power to impeach the Chairman of the party through a hearing in whch time the Vice-Chairman will be the acting leader of the NPP. 
+    E. The leader of the Party will be refered to as the Chairman who will hold a term of four years and will be elected by majority vote of all party members through an instant-runoff vote. The Vice-Chairman will be the runner up in the general elections for the Party Chairman in order to maintain party unity. 
+
+    F. The Chairman will be tasked with overseeing party meetings, bylaws, and approving or vetoing the party platform. If found unfit or corrupt the Congress and Central Committee upon majority vote has the power to impeach the Chairman of the party through a hearing in whch time the Vice-Chairman will be the acting leader of the NPP. Impeachment shall require a 70% majority vote in congress to call for hearings and a 90% majority Vote of No Confidence to the Chairman out of office
+
+    G. In the event that a Chairman or Vice Chairman is impeached, the Congress shall elect a pro tempore Vice Chairman to hold office until proper elections can be arranged.
     
 2.8) Concerning Membership 
   
@@ -62,6 +65,11 @@
     I) At least 18 years of age 
     II)A legal citizen of the United States 
     III) Agrees with at least the majority of the Party Platform and Program 
+    IV) Swears to abide by and uphold the Constitution of the Party
+    V) a Member may be expelled his or her affiliate the Party if
+        - the Member's affiliate party calls, by a 70% supermajority for an trial of the member for violations of this party Constitution or for acting against the aprty
+        - The aforementioned trial results in a 95% supermajority of the affiliate party calling for expulsion and forwarding the Appeal For Expulsion to the Congress
+        - the Congress votes, by a 75% supermajority, to upphold the Appeal for Expulsion
     
 2.9) Concerning Membership Dues
   
@@ -85,8 +93,10 @@
 
 7. Amendments and Revisions to this Constitution
 
-
-  
+  7.1) This Constitution may be amended or modified granted that the amended is either
+    A) approved by a 90% supermajority of the congress and ratified via a 90% supermajority by 90% of all State Committees)
+    or
+    B) voted upon and approved by 97% of all Party members in a referendum organized across all affiliated parties
   
     
  
