@@ -6,7 +6,7 @@
 
   1.3) The official color scheme of the party, for all design purposes, shall reflect those of the flag and logo
 
-2. Orgnaization and Membership
+- 2. Organization and Membership
 
 2.1) The organization of the National Populist Party shall be on the basis of the Federalist Principle in order to ensure the greatest amount of internal democracy without giving way to internal anarchy. 
   
@@ -16,32 +16,47 @@
 
     A. Local or Affiliate Chapters  
       i. Accept the Constitution and Rules and Procedures of the Party, and submit to the authority of the national Party and its organs, per the Constitution and Rules and Procedures, including but not limited to rules relating to membership and dues, official positions and programmes, behavior, and organization.
-      B. A chapter may be formed by 5 or more persons who agree to the conditions of membership per the rules established by the central national party and its organs by meeting any requirements set forth by the national party and petitioning or filing for recognition as an affiliate chapter or party as established in the rules and procedures set forth by the national party through its respective organs. 
+
+      B. A local chapter may be formed by 5 or more persons who agree to the conditions of membership per the rules established by the central national party and its organs by meeting any requirements set forth by the national party and petitioning or filing for recognition as an affiliate chapter or party as established in the rules and procedures set forth by the national party through its respective organs. 
   
-    2.4) The Local Chapter will  have the ability to form local bylaws and platforms in occordance with the need of the city or town that it resides as long as it does not violate the bylaws of the State or National Parties. They may also organize in any manner that they see fit as long as it does not violate any principle set out in this document. 
+    2.4) The Local Chapter will  have the authority to draft bylaws for its own operation and platforms and policies tailored to its jurisdiction as long as it doeS not violate the bylaws of the State or National Parties. They may also organize in any manner that they see fit as long as it does not violate any principle set out in the Constitution and by-laws of the National Party.
    
-   2.5) Affiliate Chapters
+   2.5) Affiliate Party
    
-    A) An Affiliate Chapter here is defined as a chapter that affiliates with the party and has representitation in the State committee but is not in perfect union with party ideology this is granted by the State or National Chapters when the local chapter has accepted 80% of the party platform and all of the Party bylaws they are then granted semi-autonomy but must still answer to Party authority. 
-  
+    A) An Affiliate Party is defined as
+           -a party that affiliates with the Party and has representitation in the State committee but is not in perfect union with party ideology
+
+           - has petitioned for and been granted recognition as an affiliate by the state party, with approval from the National Party In accordance with the bylaws thereof
+
+          -  accepts and agrees to adhere to Party bylaws and rulings
+
+     B) an affiliate party shall not have official recognition or voting rights in the National Congress or in any National Party organ
     
   2.6)Concerning State Chapters
     
-      A. The State Chapters are granted the duty to oversee the formation of local and affiliate chapters in their home State and to represent their will on the State level.
+      A. The State Chapters are granted the Authority  to oversee the formation of local chapters   in their home State and to represent their will on the State level.
+
       B. A State chapter is formed when there are five or more local chapters in one given State a time and a commttee of local representives are elected by a democratic election by the members of each local chapter thus forming the State Congress. 
+
       C. The State Committee is to form a State Committee consiting of the following departments and their leaders which will determine Statewide policies for the Chapter
         I) Department of Health and Welfare 
         II) Department of Finance 
         III) Department of Economics 
         IV) Department of Cultural Affairs 
-      D. The State Committee is made up of elected offcials of each State Chapter. zMembers and will serve a term of two years in which time they shall will have the power to submit and vote upon resolutions and bylaws, in accordance with the Constitution and Bylaws of the Party and the State Committee. The State Party may overturn a resolution or decision of its State Comittee by calling for and achieving a supermajority vote of 85% by the membership of the State Party.
+
+      D. The State Committee is made up of elected offcials of each State Chapter. Members and will serve a term of two years in which time they shall will have the power to submit and vote upon resolutions and bylaws, in accordance with the Constitution and Bylaws of the Party and the State Committee. The State Party may overturn a resolution or decision of its State Comittee by calling for and achieving a supermajority vote of 85% by the membership of the State Party.
+
+     E - the state party shall have the authority to  sponsor the petition of an applying party for recognition from the national party as an affiliate
      
 
    2.7 Concerning the Central Commitee
    
     A. The National Body is tasked with the overseeing of each State chapter and the creation of policy an bylaws for the party as a whole. 
+
     B. With this in mind the Party leadership will be structured in a similar manner as the State Chapters with a Board of Departments and a Congress of State Leaders from each State Chapter. 
-    C. The Congress is made up of elected offcials of each State Chapter and will serve a term of two years in which time the official will have the power to write bylaws if they are found by those of the State Chapter that they reside to be unfit or corrupt they may be withdrawn upon popular vote. 
+
+    C. The Congress is made up of elected offcials of each State Chapter and will serve a term of Four years in which time the official will have the power to write bylaws if they are found by those of the State Chapter that they reside to be unfit or corrupt they may be withdrawn upon popular vote. 
+
     D. The Board of Departments on the National level will be hereby called the Central Committee and will be structured as follows; 
       
       I)Department of Economics
@@ -53,9 +68,9 @@
       
     E. The Central Committee wll be selected by application and will be nominated by the Chairman and confirmed with a 60% or greater majority vote Congressional approvial 
     
-    E. The leader of the Party will be refered to as the Chairman who will hold a term of four years and will be elected by majority vote of all party members through an instant-runoff vote. The Vice-Chairman will be the runner up in the general elections for the Party Chairman in order to maintain party unity. 
+    E. The leader of the Party will be refered to as the Chairman who will hold a term of Three years and will be elected by majority vote of all party members through an instant-runoff vote. The Vice-Chairman will be the runner up in the general elections for the Party Chairman in order to maintain party unity. 
 
-    F. The Chairman will be tasked with overseeing party meetings, bylaws, and approving or vetoing the party platform. If found unfit or corrupt the Congress and Central Committee upon majority vote has the power to impeach the Chairman of the party through a hearing in whch time the Vice-Chairman will be the acting leader of the NPP. Impeachment shall require a 70% majority vote in congress to call for hearings and a 90% majority Vote of No Confidence to the Chairman out of office
+    F. The Chairman will be tasked with overseeing party meetings, bylaws, and approving or vetoing the party platform. In the event that the Congress achieves a perfect tie, the chairman shall cast the final vote. If found unfit or corrupt the Congress and Central Committee upon majority vote has the power to impeach the Chairman of the party through a hearing in whch time the Vice-Chairman will be the acting leader of the NPP. Impeachment shall require a 70% majority vote in congress to call for hearings and a 90% majority Vote of No Confidence to the Chairman out of office
 
     G. In the event that a Chairman or Vice Chairman is impeached, the Congress shall elect a pro tempore Vice Chairman to hold office until proper elections can be arranged.
     
@@ -68,8 +83,7 @@
     IV) Swears to abide by and uphold the Constitution of the Party
     V) a Member may be expelled his or her affiliate the Party if
         - the Member's affiliate party calls, by a 70% supermajority for an trial of the member for violations of this party Constitution or for acting against the aprty
-        - The aforementioned trial results in a 95% supermajority of the affiliate party calling for expulsion and forwarding the Appeal For Expulsion to the Congress
-        - the Congress votes, by a 75% supermajority, to upphold the Appeal for Expulsion
+        - The aforementioned trial results in a 90% supermajority of the affiliate party calling for expulsion and forwarding the Appeal For Expulsion to the Congress
     
 2.9) Concerning Membership Dues
   
@@ -78,13 +92,13 @@
   
 4. Internal Governance
 
-4.1) The Natonal Party will be ran by the Party Congress, Central Committee, and the Chairman and Vice-Chairman 
+4.1) The Natoonal Party will be ran by the Party Congress, Central Committee, and the Chairman and Vice-Chairman 
 
 4.2) The Party Congress wil be made up a representive from each State Chapter and will be tasked with the duty to write party bylaws that all from the highest position to the lowest is bound to. 
 
 4.3) The roles of the Central Committee is as follows;
   A)Department of Economics;
-  The Department of Economics will be tasked with writing economic policies for the NPP and traninig those in the party in economic theory. The head of the DoEc is to have an indepth understanding of economic theory and historical applications of economic policies in the United States and Europe. 
+  The Department of Economics will be tasked with writing economic policies for the NPP and traininig those in the party in economic theory. The head of the DoEc is to have an indepth understanding of economic theory and historical applications of economic policies in the United States and Europe. 
   
    B)Department of Education;
    The Department of Education is to make party policies the national education system and teachers and professors. To join or lead this one must certified as a teacher or professor. 
